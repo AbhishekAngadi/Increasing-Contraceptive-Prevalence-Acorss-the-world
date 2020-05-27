@@ -1,6 +1,6 @@
 # Increasing Contraceptive Prevalence Across the world
 
-WHAT IS CONTRACEPTIVE PREVALANCE?
+### WHAT IS CONTRACEPTIVE PREVALANCE?
 Contraceptive prevalence is the percentage of women who are currently using, or whose sexual partner is currently using, at least one method of contraception, regardless of the method used. It is usually reported for married or in-union women aged 15 to 49.
 “(# of women 15-49 using a contraceptive method)*100" /“total # of women married or in-union aged 15-49)”
 
